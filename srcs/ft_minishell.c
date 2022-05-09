@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_minishell.c                                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: rkaufman <rkaufman@student.42wolfsburg.de> +#+  +:+       +#+        */
+/*   By: ehosu <ehosu@student.42wolfsburg.de>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/03/18 09:17:33 by rkaufman          #+#    #+#             */
-/*   Updated: 2022/04/11 09:46:16 by rkaufman         ###   ########.fr       */
+/*   Updated: 2022/05/09 10:45:35 by ehosu            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
