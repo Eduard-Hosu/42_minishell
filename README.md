@@ -1,11 +1,16 @@
 # 42_minishell
 42 School Project
 
+## Team Project
+* https://github.com/Eduard-Hosu
+* https://github.com/Kromolux
 
 ## Description
+
 The objective of this project is for you to create a simple shell.
 
 ## Skills
+
 * Imperative programming
 * Rigor
 * Unix
